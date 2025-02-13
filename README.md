@@ -1,6 +1,6 @@
 ## Hi there, I am Nahid! 👋😃
 
-[![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid784)](https://github.com/anuraghazra/github-readme-stats)
+[![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid784)]
 
 <!--
 **nahid784/nahid784** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
