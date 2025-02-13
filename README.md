@@ -2,4 +2,4 @@
 
 [![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid784)]
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahid784&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahid784)
