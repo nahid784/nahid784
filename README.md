@@ -6,7 +6,7 @@
 I’m a code enthusiast who thrives on crafting stunning, responsive web experiences. With HTML & CSS mastered and JavaScript in progress, I’m continuously sharpening my skills to bring ideas to life. I also have extensive experience with WordPress, having built multiple projects that blend creativity with functionality. I constantly exploring new technologies to refine and expand my frontend development skills. 🚀
 
 ## My Dev Arsenal
-HTML, CSS, JavaScript, WordPress, Elementor, WooCommerce
+HTML, CSS, JavaScript, Tailwind, React, WordPress, Elementor
 
 ## Let’s Network<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
  <a href="https://www.linkedin.com/in/nahidhasan3247/">
