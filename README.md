@@ -3,7 +3,7 @@
 ![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid784)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahid784&layout=donut)
 
 ## The Dev Behind the Code
-I’m a code enthusiast who thrives on crafting stunning, responsive web experiences. With HTML & CSS mastered and JavaScript in progress, I’m continuously sharpening my skills to bring ideas to life. I also have extensive experience with WordPress, having built multiple projects that blend creativity with functionality. I constantly exploring new technologies to refine and expand my frontend development skills. 🚀
+I’m a code enthusiast who thrives on crafting stunning, responsive web experiences. With HTML & CSS mastered and JavaScript in progress, I’m continuously sharpening my skills to bring ideas to life. I also have extensive experience with WordPress, having built multiple projects that blend creativity with functionality. I am constantly exploring new technologies to refine and expand my frontend development skills. 🚀
 
 ## My Dev Arsenal
 HTML, CSS, JavaScript, Tailwind, React, WordPress, Elementor
